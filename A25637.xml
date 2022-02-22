@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answerable remonstrance of His Majesties [K]ingdomes of England, Scotland, Ireland, and the paincipality [sic] of Wales, to the Parliament</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25637</idno>
+            <idno type="STC">Wing A3462</idno>
+            <idno type="STC">ESTC R38502</idno>
+            <idno type="EEBO-CITATION">17525073</idno>
+            <idno type="OCLC">ocm 17525073</idno>
+            <idno type="VID">106535</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106535)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answerable remonstrance of His Majesties [K]ingdomes of England, Scotland, Ireland, and the paincipality [sic] of Wales, to the Parliament</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>May 31, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Causes.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106535:1"/>
+            <pb facs="tcp:106535:1"/>
+            <p>An Anſwerable REMONSTRANCE OF HIS MAJESTIES <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ingdomes of <hi>England, Scotland, Jre<g ref="char:EOLhyphen"/>land,</hi> and the paincipality of <hi>Wales</hi> To the Parliament.</p>
+            <figure/>
+            <p>LONDON, Printed for <hi>J. Horton,</hi> 1642. <hi>May</hi> 31.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:106535:2"/>
+            <pb facs="tcp:106535:2"/>
+            <head>An Anſwerable Remonſtrance of His Ma<g ref="char:EOLhyphen"/>jeſties Kingdome of <hi>England, Scotland, Ireland,</hi> and the Principality of <hi>Wales</hi> To the Parliament.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Maieſty receiving two Remonſtrances from both Houſes of Parliament, both concurring to the ſame effect, though different in the compoſition, <hi>viz.</hi> to the peace and ſecurity of all <hi>Brittaine;</hi> but ſomething being therein expreſſed, concerning his Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtie (to be ex<g ref="char:EOLhyphen"/>pounded rather a ſupplication to deſire His Majeſty to com<g ref="char:EOLhyphen"/>ply with his Parliament then to have any other conſtructi<g ref="char:EOLhyphen"/>on made thereof) he is therefore, or at leaſt ſeeme to have beene highly incenſed, and diſpleaſed (though any cauſe thereof be too obſcure to be juſtly ſeene or perceived at the ſaid Remonſtrances. Wherefore my ſole intent is now to delineate the perfect State, and Eſtate of all theſe King<g ref="char:EOLhyphen"/>domes of <hi>Brittaine,</hi> in a reall demonſtration from what precedent dangers they have beene delivered, and in what preſent condition they doe remaine by the aſſiduous care and indulgency of the Parliament, And firſt to begin with the Affayres of <hi>England.</hi> I thinke it not incongruent, if J ſhould firſt iterate ſome old paſſages acted long ſince for the better remembrance thereof, and what Gods ſingular mercies towards this Nation may not be forgotten, Let us then conſider of the heavy miſerie, under which this Land
+<pb facs="tcp:106535:3"/>groaned before this happy Parliament was aſſemblep, how Tirany and extortion raſhned, how Ecleſiaſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>call Courts tri<g ref="char:EOLhyphen"/>umphed, eſpecially the Starchamber, and the high Commiſ<g ref="char:EOLhyphen"/>ſion, how the abuſive add Calumnious Prolect of ſhip-mo<g ref="char:EOLhyphen"/>ney was maintained, how Lordly Biſhops <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate in their E<g ref="char:EOLhyphen"/>piſcopall hrone, how nefarious Monoplies were impoſed on the Subjact, how Arm nian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſme was diffuſed every where yea the Univer<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ies themſelves were corr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pted with the ſame, how Juſtice was blinded with Bribery; How this who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Kingdome did ſwarme with ſo many various immi<g ref="char:EOLhyphen"/>nent dangers, and with a multitude of ſo many diſtempers impoſitions, feares, and diſtu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bances, that if God had not i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fuſed it into the Kings heart to call a Parliament both the lives of honeſt men would have beene indangered their Eſtates ru<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ated, or at leaſt miſerably waſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, and they and the whole Kingdome toheahe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> buried in the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne ſepulcher of <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>amity, but by the induſtrious care of this Parliament, all theſe impious inſtruments of mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery have beene diſpa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<g ref="char:EOLhyphen"/>ed an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erred. all theſe mali<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ots have beene con<g ref="char:EOLhyphen"/>founded, and the burden of all theſe grievances have beene eaſed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Prime Authors hereof, and incendiaties, have beene duely puniſhed and queſtioned, and all their private Stratagems were blaſted before they came to maturity. The Biſhops have beene ſuſpended from their Votes, from the Houſe of Peeres, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Praelaticall Vſurpations exſtenu<g ref="char:EOLhyphen"/>ated. The Monopol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es for Wine, Salt, Buttet, Sope, Coles, &amp;c. with all other unlawfull Impoſitions have beene con<g ref="char:EOLhyphen"/>founded And beſides all this: We have had civill Muti<g ref="char:EOLhyphen"/>neyes and Combu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tions ſince amongſt our ſelves concerning Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igion in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Antipathyi and ſtrange oppoſition of as ſeverall opinions, as ſeverall men, and as ſeverall Re<g ref="char:EOLhyphen"/>ligions, as opinions.</p>
+            <p>Thus the Church hath beene variouſly diſtracted and di<g ref="char:EOLhyphen"/>ſtorted, but (I hope) it is now <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>artly cleanſed, and (I truſt in God) will be ſuddenly throughly purged from Schiſme,
+<pb facs="tcp:106535:3"/>Fiction and Hereticall diviſion. There have beene di<g ref="char:EOLhyphen"/>vers Subſidies granted beſides Poll-money, which a<g ref="char:EOLhyphen"/>mounted to an incogitable ſumme, moſt part whereof was ſent to the North. And ſince many Memorable things have been performed by the Parliament, but I will not continue in theſe ambages and deviations from theſe preſent times, but ſtrive rather to expreſſe thoſe in a l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vely Character. Since his Maieſties laſt returne from Scotland, none would have fomented a<g ref="char:EOLhyphen"/>ny other thought in his Breaſt, but that the Noble Tryuniph wherewith the City of London Royally en<g ref="char:EOLhyphen"/>tertained His Majeſty, might have wooed him to conti<g ref="char:EOLhyphen"/>nue <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eater them; but he hath abſented himſelfe a long time from the City, and his parliament to the great griefe of the one, to the Feares and Jealouſies of the o<g ref="char:EOLhyphen"/>ther. The parliament have o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tentimes ſent Meſſages to his Majeſty earneſtly beſeeching him in all ardency of affection, and reſpective ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of his Royall perſon, that he would graciouſly concurre with them in their ſerious and weighty conſultations, but his Majeſty hath r<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ed to anſwer them in that expectation. There hath been ſince many differences between them: and feares. and Jealouſies fomented on both ſides to the great a<g ref="char:EOLhyphen"/>mazement of the Subiect. His Maieſty hath continued at York a long time<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and intended divers times to en<g ref="char:EOLhyphen"/>ter Hull, but was d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nyed Sir <hi>John Hotham</hi> to enter therein, whom the parliament had there entruſted, whereupon the King proclaimed him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>raytor about the Walls, but the parliament defended him, and confirmed that Act ſo be a high Breach of the priviledges of par<g ref="char:EOLhyphen"/>liament but his Maieſty now lately, as hath been againſt his Parliament, but both Houſes have unanimouſly Voted.</p>
+            <p n="1">1. <hi>That whenſoever the King maketh Warre upon the Parliament, it is a Breach of the truſt repoſed in him by
+<pb facs="tcp:106535:4"/>the People, and againſt his Oath, and tending to the diſſo<g ref="char:EOLhyphen"/>lution of this Government.</hi>
+            </p>
+            <p n="2">2. <hi>Whoſoever <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſerve, or aſſiſt the King in ſuch war are Traytors, and ought to ſuffer the puniſhment as Traytors, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rding to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Statutes of</hi> 11. <hi>Richard</hi> 2 1. <hi>Henry</hi> 4.</p>
+            <p>The Mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ia of the Kingdome the Parliament are in<g ref="char:EOLhyphen"/>tended to diſpoſe God grant that his Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y and they may concurre together in Vnity and coherence to the future peace of the Realme.</p>
+            <p>In this expenſion and the affaires of <hi>Scotland</hi> I chinke it not impertinent to begin with the<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> firſt riſing: after the <hi>Scots</hi> perceived the Lawes to be corrupted by a malignant party, and many ſuperſtitious innovations in Religion being thruſt upon them, that roſe in Armes for the Liberty of their conſcience, an <hi>Engliſh</hi> Army was likewiſe raiſed againſt them, but when their cauſe was fully perceived to be ſo good, a Parliament was called and an abſolute Pacification concluded, but an exceſſive ſumme of money given them withall. After all which a Parliament was called there, and his Majeſty went himſelfe, where he continued untill peace and tranqui<g ref="char:EOLhyphen"/>lity, as well as the Government of their Church were confirmed, and then his Maieſty returned to <hi>London</hi> a<g ref="char:EOLhyphen"/>gaine, with the Tryumphant Congratulation of all his Subiects.</p>
+            <p>The <hi>Scottiſh</hi> riſing in Armes was a happy Prologue to our enſuing Comedy but praiſe God theſe diſtracted and prepoſterous times doe invert it to a bloody Tragedy. And peace hath raigned there a long time, while di<g ref="char:EOLhyphen"/>ſtraction <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th in amongſt us. But they hearing of theſe manifold variances, and differences between the King and the Parliament, are (as si credibly ſuppo<g ref="char:EOLhyphen"/>ſed) intended to take rather the Parliaments part.</p>
+            <pb facs="tcp:106535:4"/>
+            <p>But <hi>Ireland</hi> perceiving the <hi>Scots</hi> fared ſo well in their Warre, broke out into open Rebellion, were not aſhamed to write themſelves the Quenes Army, and have heretofore killed and ſlaine and maſſacred the Proteſtants, ſparing neither man, woman nor Child, Sex or degree, Age or Quality, ſo cruelly and inhumanely, that no Chriſtian eye can read the ſame without a teare, and no eare can heare relate with Chriſtian Patiene, but ſince the Engliſh and Scottiſh Army is gone over, they have beene ſomewhat qualified, and many Townes and Caſtles have beene relieved, as <hi>Drog<g ref="char:EOLhyphen"/>heda, VVickloe, Kiltrugh, Clogham, Kingſaill, &amp;c.</hi> The Caſtles of <hi>Tippar, Catherl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ugh, Clouthgrenan,</hi> Sir <hi>George Greſhams</hi> Caſtle, called <hi>Ballirenon,</hi> the Duke of <hi>Buckinghams</hi> Caſtle called <hi>Burros Ball<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>nek<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll &amp;c.</hi> Our Army proceeds with happy fortune and ſucceſſe, and by the auxiliary directions of Al<g ref="char:EOLhyphen"/>mighty God, but theirs decreaſeth dayly leſſer and leſſer, the Rebels have ſome Townes ſtill in poſſe<g ref="char:EOLhyphen"/>ſſion, as <hi>Carr Dogmoe, Arckeloe, Kilkeny, Kildare</hi> with certaine others, but they have loſt many of late, and are dayly extenuated in Number, for the Engliſh follow them with ſuch undanted Spirits, and ſo couragiouſly, that they commonly terrifie them at the firſt Skirmiſh, and put them to flight very often, ſo that we hope the Fire of their Re<g ref="char:EOLhyphen"/>bellion will bee quickly quenched.</p>
+            <p>
+               <hi>VVales</hi> have great cauſe of ſuſpition, for there are dayly tumults and inſurrections in moſt Coun<g ref="char:EOLhyphen"/>ties
+<pb facs="tcp:106535:5"/>there, and they greatly ſuſpect fortaigne For<g ref="char:EOLhyphen"/>ces.</p>
+            <p>The 17. day of this preſent moneth was preſen<g ref="char:EOLhyphen"/>ted to the Houſe of Commons a Petition from the Counte of <hi>Monmouth</hi> in <hi>VVales,</hi> wherein they complained of their feares of enſuing miſery, by reaſon of the multiplicite of Papiſts in thoſe parts who make daily proviſion of that County to with<g ref="char:EOLhyphen"/>ſtand them: Wherefore they prayed that the Ma<g ref="char:EOLhyphen"/>gazine of Armes might bee removed to <hi>Newport,</hi> and thereby put into a poſture of defence, and that the Recuſants might be ſudd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inly diſarmed, which being read, Anſwer was returned, That the Houſe would take ſpeedy care therein.</p>
+            <p>But God baniſh theſe feares of danger, and ſettle Peace, quietneſſe, and proſperous ſecurity in theſe Kingdomes of <hi>Brittaine.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106535:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
